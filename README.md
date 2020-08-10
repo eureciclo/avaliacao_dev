@@ -1,5 +1,5 @@
 # Desafio de programação
-A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de dev, de vários níveis.
+A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de dev remoto, de vários níveis.
 
 Este desafio deve ser feito por você, em sua casa. Gaste o tempo que precisar, porém normalmente você não deve precisar de mais do que algumas horas.
 
