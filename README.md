@@ -40,7 +40,3 @@ Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas p
 
 ## Observação
 A eu**reciclo** se esforça para manter um ambiente seguro para todos os profissionais e candidatos, se você acha que tem um fit bom com a empresa, não importa sua idade, gênero e localização geográfica, aplique! :rainbow_flag: :brown_heart: :curly_haired_woman: :person_white_hair:
-
-### Referência
-
-Este desafio foi baseado neste outro desafio: https://github.com/lschallenges/data-engineering
