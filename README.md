@@ -39,7 +39,7 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões, bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto, preocupação com o objetivo da aplicação e do seu uso pelo usuário, suporte e manutenção do código por outros desenvolvdores
 
 ## Observação
-A eu*reciclo* se esforça para manter um ambiente seguro para todos os profissionais e candidatos, se você acha que tem um fit bom com a empresa, não importa sua idade, gênero e localização geográfica, aplique! :rainbow_flag: :brown_heart: :curly_haired_woman: :person_white_hair:
+A eu**reciclo** se esforça para manter um ambiente seguro para todos os profissionais e candidatos, se você acha que tem um fit bom com a empresa, não importa sua idade, gênero e localização geográfica, aplique! :rainbow_flag: :brown_heart: :curly_haired_woman: :person_white_hair:
 
 ### Referência
 
