@@ -23,7 +23,7 @@ Sua aplicação web DEVE:
 5. Executar via Docker ou Docker Compose.
 6. Utilizar apenas linguagens e bibliotecas livres ou gratuitas.
 6. Ter testes de model e controller automatizados.
-7. Ter uma boa aparecia e ser fácil de usar.
+7. Ter uma boa aparência e ser fácil de usar.
 
 ## Avaliação
 Seu projeto será avaliado de acordo com os seguintes critérios.
