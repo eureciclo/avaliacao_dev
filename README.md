@@ -1,7 +1,7 @@
 # Desafio de programação
 A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de dev remoto, de vários níveis.
 
-Este desafio deve ser feito por você, em sua casa. Gaste o tempo que precisar, porém normalmente você não deve precisar de mais do que algumas horas.
+Este desafio deve ser feito por você, no máximo em uma semana, porém normalmente você não deve precisar de mais do que algumas horas.
 
 ## Instruções de entrega
 1. Crie seu app e inicialize um repositório git.
