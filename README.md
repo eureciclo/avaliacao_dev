@@ -3,11 +3,15 @@ A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidat
 
 Este desafio deve ser feito por você, no máximo em uma semana, porém normalmente você não deve precisar de mais do que algumas horas.
 
+### Atenção
+Também serão aceitos projetos já desenvolvidos, de autoria própria, que atendam os critérios listados na seção `Avaliação`. Se esse for o caso, basta enviar o ZIP do projeto para o email vagas@eureciclo.com.br com o título *Desafio de programação*
+
 ## Instruções de entrega
 1. Crie seu app e inicialize um repositório git.
 2. Faça commits (e pushs) conforme for terminando features.
 3. Crie instruções de execução da aplicação via Docker em seu README.md.
 4. Por fim, envie o link do seu repositorio para avaliarmos.
+
 
 ## Descrição do projeto
 Você recebeu um arquivo de texto com os dados de vendas da empresa. Precisamos criar uma maneira para que estes dados sejam importados para um banco de dados.
@@ -24,6 +28,7 @@ Sua aplicação web DEVE:
 6. Utilizar apenas linguagens e bibliotecas livres ou gratuitas.
 6. Ter testes de model e controller automatizados.
 7. Ter uma boa aparência e ser fácil de usar.
+
 
 ## Avaliação
 Seu projeto será avaliado de acordo com os seguintes critérios.
