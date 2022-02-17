@@ -23,7 +23,7 @@ Sua aplicação web DEVE:
 1. Aceitar (via formulário) o upload de arquivos text, com dados separados por TAB. A primeira linha do arquivo tem o nome das colunas. Você pode assumir que as colunas estarão sempre nesta ordem e sempre haverá uma linha de cabeçalho. Um arquivo de exemplo chamado 'dados.txt' está incluído neste repositório.
 2. Interpretar ("parsear") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados relacional.
 3. Exibir todos os registros importados, bem como a receita bruta total dos registros contidos no arquivo enviado após o upload + parser.
-4. A aplicação deve ser escrita obrigatoriamente em: Python 3 ou PHP 7 (dependendo da vaga que está se candidatando), utilizando qualquer framework de preferência.
+4. A aplicação deve ser escrita obrigatoriamente em: Python 3.7+ ou PHP 7+ (dependendo da vaga que está se candidatando), utilizando qualquer framework de preferência.
 5. Executar via Docker ou Docker Compose.
 6. Utilizar apenas linguagens e bibliotecas livres ou gratuitas.
 6. Ter testes de model e controller automatizados.
